@@ -1,2 +1,3 @@
 # personal-website
 A static, personal website build in react (and hopefully with angular and vue in the future).
+I think that I'm gonna make a next.js app...
