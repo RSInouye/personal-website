@@ -1,5 +1,5 @@
 export default function Home() {
-	return (
-		<div>Hello, World!</div>
-	);
+  return (
+      <p> I'm learnin react </p>
+  )
 }
